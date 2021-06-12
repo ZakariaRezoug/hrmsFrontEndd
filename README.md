@@ -1,1 +1,1 @@
-![Hrms Uml](./ibb.co/Nt8B3Tz)
+![Hrms Uml](https://ibb.co/Nt8B3Tz)
