@@ -1,1 +1,1 @@
-![Hrms Uml](./HrmsUml.drawio)
+![Hrms Uml](./https://ibb.co/Nt8B3Tz)
