@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import { Header, Menu } from 'semantic-ui-react'
 
 export default function SideBar() {
@@ -14,6 +15,7 @@ export default function SideBar() {
 
         <Menu.Item
           name='Candidates'
+          as={NavLink} to ="/candidates"
         >
           <Header as='h4'>Candidates</Header>
           <p>Check out our candidates</p>
